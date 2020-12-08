@@ -8,10 +8,10 @@
 
 ### Current Project:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Boombox_GUI&show_owner=true&theme=dark)](https://github.com/3xq/Boombox_GUI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Boombox_GUI&show_owner=true&theme=light)](https://github.com/3xq/Boombox_GUI)
 
 ### Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3xq&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3xq&show_icons=true&theme=light)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&layout=compact&theme=light)
