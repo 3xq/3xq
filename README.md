@@ -1,7 +1,7 @@
 ### Hi there 👋, im Baljeet (@komtszn#1977)
 
 - 🔭 I'm currently working on: Roblox Scripts.
-- 🌱 I’m currently learning: CSS, and PHP.
+- 🌱 I’m currently learning: GO, CSS, and PHP.
 - 🤗 I know: LUA, Python, C#, and bits of Node.js
 - 📫 How to reach me: Discord.
 - ⚡ Fun fact: Flamingos can only eat with their head upsidedown.
