@@ -5,6 +5,6 @@
 - 📫 How to reach me: Discord.
 - ⚡ Fun fact: Flamingos can only eat with their head upsidedown.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazion1337&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazion1337&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&theme=merko&style=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&theme=dark)
