@@ -14,4 +14,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3xq&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&layout=compact&theme=light)
