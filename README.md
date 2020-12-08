@@ -12,6 +12,6 @@
 
 ### Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3xq&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3xq&show_icons=true&theme=merko)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&layout=compact&theme=merko&langs_count=10)
