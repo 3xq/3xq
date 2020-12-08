@@ -7,10 +7,10 @@
 
 ### Current Project:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Boombox_GUI&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Boombox_GUI&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3xq&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3xq&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&layout=compact)
