@@ -7,7 +7,7 @@
 
 ### Current Project:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Boombox_GUI)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats:
 
