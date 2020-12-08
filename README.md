@@ -8,7 +8,7 @@
 
 ### Current Project:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Boombox_GUI&show_owner=true&theme=dark)](https://github.com/3xq/Boombox_GUI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Boombox_GUI&show_owner=true&theme=radical)](https://github.com/3xq/Boombox_GUI)
 
 ### Stats:
 
