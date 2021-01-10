@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Baljeet [https://cyrustestingv2.000webhostapp.com/UserId.php?UserId=480196622962393089&Json=false]
+### Hi there 👋, I'm Baljeet [komt#1111]
 
 - 🌱 I’m currently learning: CSS and PHP.
 - 🤗 I know: LUA, Python, C#, and bits of Node.js+Golang
