@@ -1,13 +1,12 @@
-### Hi there 👋, im Baljeet (@komtszn#1977)
+### Hi there 👋, I'm Baljeet ((https://cyrustestingv2.000webhostapp.com/UserId.php?UserId=480196622962393089&Json=false))
 
-- 🔭 I'm currently working on: Roblox Scripts.
-- 🌱 I’m currently learning: GO, CSS, and PHP.
-- 🤗 I know: LUA, Python, C#, and bits of Node.js
-- 📫 How to reach me: Discord.
+- 🌱 I’m currently learning: CSS and PHP.
+- 🤗 I know: LUA, Python, C#, and bits of Node.js+Golang
+- 📫 How to reach me: Discord, Twitter.
 
 ### Current Project:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Boombox_GUI&show_owner=true&theme=radical)](https://github.com/3xq/Boombox_GUI)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Lua_Language_Library&show_owner=true&theme=radical)](https://github.com/3xq/Lua_Language_Library)
 
 ### Stats:
 
