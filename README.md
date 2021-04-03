@@ -1,12 +1,12 @@
-### Hi there 👋, I'm Baljeet [komt#1111]
+### Hi there 👋, I'm Baljeet [komt#0005]
 
-- 🌱 I’m currently learning: CSS and PHP.
-- 🤗 I know: LUA, Python, C#, and bits of Node.js+Golang
+- 🌱 I’m currently learning: CSS and Node.js.
+- 🤗 I know: LUA, Python, C#, PHP, & bits of Golang+LOLCODE
 - 📫 How to reach me: Discord, Twitter.
 
 ### Current Project:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Lua_Language_Library&show_owner=true&theme=radical)](https://github.com/3xq/Lua_Language_Library)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Clip&show_owner=true&theme=radical)](https://github.com/3xq/Clip)
 
 ### Stats:
 
