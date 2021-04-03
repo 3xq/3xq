@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Baljeet [komt#00-5]
+### Hi there 👋, I'm Baljeet [komt#0005]
 
 - 🌱 I’m currently learning: CSS and Node.js.
 - 🤗 I know: LUA, Python, C#, PHP, & bits of Golang+LOLCODE
