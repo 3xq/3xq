@@ -17,6 +17,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Golang](https://img.shields.io/badge/-Golang-000000?style=flat&logo=go)
 ![Batch](https://img.shields.io/badge/-Batch-000000?style=flat&logo=windows)
+![C-Sharp](https://img.shields.io/badge/-C#-000000?style=flat&logo=c%20sharp)
 
 ### Technology:
 
@@ -32,11 +33,16 @@
 ![ToR](https://img.shields.io/badge/-ToR%20Project-000000?style=flat&logo=tor%20project)
 ![FireFox](https://img.shields.io/badge/-FireFox-000000?style=flat&logo=firefox)
 
+![Discord](https://img.shields.io/badge/-Discord-000000?style=flat&logo=discord)
 
-### Github
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Clip&show_owner=true&theme=radical)](https://github.com/3xq/Clip)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3xq&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&layout=compact&theme=radical&langs_count=10?exclude_repo=UntitledX)
+<details>
+      <summary>Statistics / Projects</summary>
+  <p align=center>
+    <a href="https://github.com/3xq">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=3xq&show_icons=true&theme=radical" alt="3xq's Statistics." />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&layout=compact&theme=radical&langs_count=10?exclude_repo=UntitledX" alt="3xq's Statistics." />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Clip&show_owner=true&theme=radical)](https://github.com/3xq/Clip" alt="3xq's Statistics." />
+    </a>
+  </p>
+</details>
