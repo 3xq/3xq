@@ -37,12 +37,11 @@
 
 
 <details>
-      <summary>Statistics / Projects</summary>
+      <summary>Statistics</summary>
   <p align=center>
     <a href="https://github.com/3xq">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=3xq&show_icons=true&theme=radical" alt="3xq's Statistics." />
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&layout=compact&theme=radical&langs_count=10?exclude_repo=UntitledX" alt="3xq's Statistics." />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Clip&show_owner=true&theme=radical)](https://github.com/3xq/Clip" alt="3xq's Statistics." />
     </a>
   </p>
 </details>
