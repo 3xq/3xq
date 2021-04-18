@@ -1,8 +1,5 @@
 ### Hi there 👋.
 
-- 🌱 I’m currently learning: CSS and Node.js.
-- 🤗 I know: LUA, Python, C#, PHP, & bits of Golang
-
 ### Disord:
 
 <p align="center">
