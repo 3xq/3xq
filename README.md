@@ -23,6 +23,10 @@
 ![Curl](https://img.shields.io/badge/-Curl-000000?style=flat&logo=curl)
 ![Visual Studio Code](https://img.shields.io/badge/-2019-000000?style=flat&logo=visual%20studio%20code)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-000000?style=flat&logo=circleci)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch%20linux)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows)
+![ToR](https://img.shields.io/badge/-ToR Project-000000?style=flat&logo=tor%20project)
 
 
 ### Github
