@@ -9,6 +9,9 @@
   <img src="https://discord.c99.nl/widget/theme-2/480196622962393089.png"/>
 </p>
 
+### Technologies
+![VisualStudioCode](https://img.shields.io/endpoint?label=2019&logo=Visual%20Studio%20Code)
+
 ### Current Project:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Clip&show_owner=true&theme=radical)](https://github.com/3xq/Clip)
