@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Baljeet [komt#0005]
+### Hi there 👋.
 
 - 🌱 I’m currently learning: CSS and Node.js.
 - 🤗 I know: LUA, Python, C#, PHP, & bits of Golang+LOLCODE
@@ -9,14 +9,9 @@
   <img src="https://discord.c99.nl/widget/theme-2/480196622962393089.png"/>
 </p>
 
-### Technologies
-![VisualStudioCode](https://img.shields.io/endpoint?label=2019&logo=Visual%20Studio%20Code)
-
-### Current Project:
+### Github
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Clip&show_owner=true&theme=radical)](https://github.com/3xq/Clip)
-
-### Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3xq&show_icons=true&theme=radical)
 
