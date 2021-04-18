@@ -31,6 +31,8 @@
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows)
 ![Apple](https://img.shields.io/badge/-Mac-000000?style=flat&logo=Apple)
 
+![NVIDIA](https://img.shields.io/badge/-NVIDIA-000000?style=flat&logo=nvidia)
+
 ![ToR](https://img.shields.io/badge/-ToR%20Project-000000?style=flat&logo=tor%20project)
 ![FireFox](https://img.shields.io/badge/-FireFox-000000?style=flat&logo=firefox)
 
