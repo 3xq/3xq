@@ -26,6 +26,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch%20linux)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows)
+![Apple](https://img.shields.io/badge/-Mac-000000?style=flat&logo=Apple)
 ![ToR](https://img.shields.io/badge/-ToR%20Project-000000?style=flat&logo=tor%20project)
 
 
