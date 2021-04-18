@@ -18,6 +18,11 @@
 ![Golang](https://img.shields.io/badge/-Golang-000000?style=flat&logo=go)
 ![Batch](https://img.shields.io/badge/-Batch-000000?style=flat&logo=windows)
 
+### Technology:
+
+![Curl](https://img.shields.io/badge/-Curl-000000?style=flat&logo=curl)
+![Visual Studio Code](https://img.shields.io/badge/-2019-000000?style=flat&logo=visual%20studio%20code)
+
 ### Github
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Clip&show_owner=true&theme=radical)](https://github.com/3xq/Clip)
