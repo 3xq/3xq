@@ -48,5 +48,3 @@
     </a>
   </p>
 </details>
-
-<canvas id="c" width="600" height="600"></canvas><script>function c(f,h){for(var i=f,j=h,d=0;d<100;d++){var g=2*i*j+h;if(i=i*i-j*j+f,j=g,i*j>5){return d/100*100}}return 0}function y(s,p,g){for(var h=s,j=p,d=g,k=0;k<a.width;k++){for(var m=0;m<a.height;m++){var q=c(k/h-j,m/h-d);0==q?(b.fillStyle="#000",b.fillRect(k,m,1,1)):(b.fillStyle="hsl(0,100%,"+q+"%)",b.fillRect(k,m,1,1))}}}function z(d,f){var g=a.getBoundingClientRect();return{x:f.clientX-g.left,y:f.clientY-g.top}}var a=document.getElementById("c"),b=a.getContext("2d"),Xpos=1;y(200,2,1.5),a.addEventListener("click",function(d){var f=z(a,d);y(200,2,1.5)})</script>
