@@ -13,6 +13,10 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Lua](https://img.shields.io/badge/-Lua-000000?style=flat&logo=lua)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Golang](https://img.shields.io/badge/-Golang-000000?style=flat&logo=go)
+![Batch](https://img.shields.io/badge/-Batch-000000?style=flat&logo=windows)
 
 ### Github
 
