@@ -2,7 +2,12 @@
 
 - 🌱 I’m currently learning: CSS and Node.js.
 - 🤗 I know: LUA, Python, C#, PHP, & bits of Golang+LOLCODE
-- 📫 How to reach me: Discord, Twitter.
+
+### Disord:
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-2/480196622962393089.png"/>
+</p>
 
 ### Current Project:
 
