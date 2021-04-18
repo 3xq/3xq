@@ -15,5 +15,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xq&layout=compact&theme=radical&langs_count=10?exclude_repo=UntitledX)
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/480196622962393089.png" />
+  <img src="https://discord.c99.nl/widget/theme-2/480196622962393089.png"/>
 </p>
