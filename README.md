@@ -9,6 +9,11 @@
   <img src="https://discord.c99.nl/widget/theme-2/480196622962393089.png"/>
 </p>
 
+### Languages:
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+
 ### Github
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3xq&repo=Clip&show_owner=true&theme=radical)](https://github.com/3xq/Clip)
