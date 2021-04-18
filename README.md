@@ -22,6 +22,8 @@
 
 ![Curl](https://img.shields.io/badge/-Curl-000000?style=flat&logo=curl)
 ![Visual Studio Code](https://img.shields.io/badge/-2019-000000?style=flat&logo=visual%20studio%20code)
+![CircleCI](https://img.shields.io/badge/-CircleCI-000000?style=flat&logo=circleci)
+
 
 ### Github
 
