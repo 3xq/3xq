@@ -22,7 +22,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
-![C++](https://img.shields.io/badge/-cplusplus-000000?style=flat&logo=cplusplus)
+![Excel](https://img.shields.io/badge/-Excel-000000?style=flat&logo=microsoft%20excel)
 
 ### Technology:
 
