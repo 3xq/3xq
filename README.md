@@ -19,6 +19,10 @@
 ![Golang](https://img.shields.io/badge/-Golang-000000?style=flat&logo=go)
 ![Batch](https://img.shields.io/badge/-Batch-000000?style=flat&logo=windows)
 ![C-Sharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=c%20sharp)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
+![Rust](https://img.shields.io/badge/-rust-000000?style=flat&logo=rust)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c++)
 
 ### Technology:
 
