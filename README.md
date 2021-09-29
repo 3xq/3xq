@@ -43,6 +43,7 @@
 
 ![Discord](https://img.shields.io/badge/-Discord-000000?style=flat&logo=discord)
 
+![Views](https://komarev.com/ghpvc/?username=3xxq)
 
 <details>
       <summary>Statistics</summary>
