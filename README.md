@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://cdn.chris.schalenborgh.be/wp-content/uploads/2012/02/helloworld.jpeg" width=750 height=225/>
-</p>
-
-
-
 ### Disord:
 
 <p align="center">
