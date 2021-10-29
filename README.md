@@ -37,8 +37,6 @@
 
 ![Discord](https://img.shields.io/badge/-Discord-000000?style=flat&logo=discord)
 
-![Views](http://3xxq.000webhostapp.com)
-
 <details>
       <summary>Statistics</summary>
   <p align=center>
