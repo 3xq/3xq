@@ -4,7 +4,7 @@
   <img src="https://discord.c99.nl/widget/theme-2/480196622962393089.png"/>
 </p>
 
-<p>
+<p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:3xq"></a>
 </p>
 
