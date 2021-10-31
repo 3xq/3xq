@@ -7,7 +7,7 @@
 ### Views:
 
 <p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:3xq"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:3xq?theme=gelbooru"></a>
 </p>
 
 ### Languages:
