@@ -5,8 +5,7 @@
 </p>
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:3xq"></a>
 </p>
 
 ### Languages:
