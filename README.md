@@ -25,7 +25,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Excel](https://img.shields.io/badge/-Excel-000000?style=flat&logo=microsoft%20excel)
 
-###
 ### Technology:
 
 ![Visual Studio Code](https://img.shields.io/badge/-2019-000000?style=flat&logo=visual%20studio%20code)
