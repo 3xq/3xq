@@ -1,4 +1,4 @@
-### Disord:
+### Discord:
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/480196622962393089.png"/>
