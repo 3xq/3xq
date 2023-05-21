@@ -1,4 +1,4 @@
-### i code sometimes
+<p align="center"><b>i code sometimes</b></p>
 
 <p align="center">
   <a href="https://github.com/3xq">
